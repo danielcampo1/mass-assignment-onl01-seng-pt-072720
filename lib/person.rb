@@ -8,6 +8,7 @@ wrist_size:, glove_size:, pant_length:, pant_width: )
     @name = name 
     @birthday = birthday
     @hair_color = hair_color
+    
 
  end
   
