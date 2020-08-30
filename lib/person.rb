@@ -2,7 +2,7 @@ class Person
   
   attr_accessor :name, :height
   
-  def initialize (name: , height: 6)
+  def initialize (name:, height: )
     @name = name
     @height = height
   end
